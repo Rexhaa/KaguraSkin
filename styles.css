@@ -1,0 +1,30 @@
+table {
+width: 600px;
+margin: 0 auto;
+}
+body {
+  background-image: url("https://i.imgur.com/RSwD7KC.jpg");
+}
+h1{
+  color: #00ffcc;
+  font-family: Arial;
+  font-size: 200%;
+}
+h2{
+  color: #00ffcc;
+  font-family: Arial;
+  font-size: 105%;
+}
+button{
+  background-color:ff0066;
+   color: white;
+   border-radius: 20px;
+}
+h3{
+  color: #ffffff;
+  font-family: arial;
+  font-size: 90%;
+}
+p{
+  font-family: arial;
+}
